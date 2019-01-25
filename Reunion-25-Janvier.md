@@ -1,17 +1,16 @@
-#Reunion 25/01 : 
+# Reunion 25/01 : 
 
-##planning semaine Prochaine : 
-*Commencer 404 et star wars, ils sont important et ludique; pour ceux qui on déjà finit => Voir Arnaud.
-*Tous les vendredi : kahoot sur les sujets de la semaine et parfois d'autres aussi.
+## planning semaine Prochaine : 
+* Commencer 404 et star wars, ils sont important et ludique; pour ceux qui on déjà finit => Voir Arnaud.
+* Tous les vendredi : kahoot sur les sujets de la semaine et parfois d'autres aussi.
 
-##planning du mois :
+## planning du mois :
 
 
-*Les deadlines, c'est important mais reste logique : elles sont relative à l'avancement du groupe.
-*Quelques infos sur le pseudo-code : Sert a traduire en francais l'algorythmie. /!\ Arnaud ORDONNE d'installer algo-box.
-*voir mises à jour Dossier "ressources" : à consulter regulierement => voir repo homework CRL-Woods-1.9,
-pseudo code : traduire en francais l'algo
-	Arnaud ORDONNE d'installer algo-box !
+* Les deadlines, c'est important mais reste logique : elles sont relative à l'avancement du groupe.
+* Quelques infos sur le pseudo-code : Sert a traduire en francais l'algorythmie. /!\ Arnaud ORDONNE d'installer algo-box.
+* voir mises à jour Dossier "ressources" : à consulter regulierement => voir repo homework CRL-Woods-1.9,
+
 s'exercer sur algo-box,
 re-planning chronologie :
 html css => en cours ,
