@@ -39,6 +39,8 @@ Vous pouvez proposer au coachs vos propore projets externe et ils seront ou non 
 * Absences ! Respect deadlines ! Ponctualité !
 * Surtout PREVENIR si on compte etre absent !
 * Vie en commu : Propreté, respect, communication, solution  a chaque "problème". Etre orienté solution, se plaindre?, ok mais apporte une solution ou des conseils.
+
+## Dernières infos :
 * Tele-travail
 * Assignation des tickets : pq? les coachs sont pas dispo H24, mise en place d'une "procedure" afin de savoir quand les coachs sont dispos.
 * Moral de la Reunion : Le Groupe ! Communication, Proactivités,...
