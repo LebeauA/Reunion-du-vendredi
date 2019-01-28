@@ -26,8 +26,8 @@
 * Stage : obligation d'avoir un developpeur pour nous cadrer + essayer d'avoir un stage avec possibilité d'engagement.
 
 ## D'autres infos :
-* A propos du debrief du 24/01 : Ne pas s'inquieter a propos des instruction floues, il ne faut pas hesiter à demander de l'aide au groupe et même au coach. L'aspect "Groupe" est important, nous devons avancer ensemble.
-* Projets externe : interaction avec le clients, il faudra gérer les demandes du client (cahier de charges,...); points d'attention : retransciption des demandes claire et que  ce soit faisable, important de rester Pro !
+* A propos du debrief du 24/01 : Ne pas s'inquiéter a propos des instructions floues, il ne faut pas hésiter à demander de l'aide au groupe et même au coach. L'aspect "Groupe" est important, nous devons avancer ensemble.
+* Projets externe : interaction avec le client, il faudra gérer les demandes du client (cahier de charges,...); points d'attention : retransciption des demandes claire et que  ce soit faisable, important de rester Pro !
 Les projets se derouleront toujours en groupe, ils sont valorisant, et important pour acquerir de l'experience, remplir son portfolio.
 Vous pouvez proposer au coachs vos propore projets externe et ils seront ou non accepté apres négociations avec le client.
 * Gertrude (?) : le copier/coller n'apporte rien !
@@ -35,7 +35,7 @@ Vous pouvez proposer au coachs vos propore projets externe et ils seront ou non 
 * Tips and Tricks : ne pas hesiter a s'en servir (Voir topic River - Woods)
 * Dossier assets (CRL-Woods-1.9) : Vous pouvez y glisser vos photos.
 
-## Points négtifs :
+## Points négatifs :
 * Absences ! Respect deadlines ! Ponctualité !
 * Surtout PREVENIR si on compte etre absent !
 * Vie en commu : Propreté, respect, communication, solution  a chaque "problème". Etre orienté solution, se plaindre?, ok mais apporte une solution ou des conseils.
