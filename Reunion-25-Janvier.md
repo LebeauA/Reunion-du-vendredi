@@ -17,10 +17,10 @@
 * Atelier avec David (surprise), 
 
 ## Plus tard :
-* Responsive design SAS
+* Responsive design SASS
 * Js
 * PHP
-* Po ? 
+* POO (Programmation Orientée Objet) 
 * Angular OU React, à definir.
 * mois de paturage : "libre" selon le domaine privilégié de chancun. pas d'obligation.
 * Stage : obligation d'avoir un developpeur pour nous cadrer + essayer d'avoir un stage avec possibilité d'engagement.
