@@ -45,5 +45,5 @@ Vous pouvez proposer au coachs vos propore projets externe et ils seront ou non 
 * Assignation des tickets : pq? les coachs sont pas dispo H24, mise en place d'une "procedure" afin de savoir quand les coachs sont dispos.
 * Moral de la Reunion : Le Groupe ! Communication, Proactivités,...
 * Repo Watch Woods est a nous, pq pas poster nos veilles effectuées dessus.
-* Dorothy cares : "IA" dorothycares.ovh => Decouvrir et alimenter ! 
+* Dorothy cares : "IA" [dorothycares.ovh](https://dorothycares.ovh)  => Decouvrir et alimenter ! 
 Réunion de vdd prochain : désigner les points, Arnaud pas la donc c'est au groupe à gérer sa réunion.
