@@ -1,11 +1,11 @@
 
 
 
-#Réunion du 01 fevrier 2019
+Réunion du 01 fevrier 2019
 ==========================
 
 
-##Planning de la semaine prochaine
+Planning de la semaine prochaine
 --------------------------------
 
 - terminer le parcours pour Lundi
@@ -14,14 +14,14 @@
 
 
 
-##Echange concernant le challenge de ce matin
+Echange concernant le challenge de ce matin
 -------------------------------------------
 
 Le partage a été fortement apprécié et il a été décidé que de nouvelles stratégies allaient etre mises en place pour faciliter encore plus la réalisation de futurs challenges. il est essentiel d'avancer en tant que groupe et non en tant qu'individu.
 Il a également été décidé qu'une réunion serait organisée lors du prochain défis pour définir la bonne stratégie a adopter.
 
 
-##Découragements? 
+Découragements? 
 ------------------
 
  - travailler chez soi le soir s on s'estime largué.
@@ -30,7 +30,7 @@ Il a également été décidé qu'une réunion serait organisée lors du prochai
  - Ne pas se prendre la tête et avancer à son rythme
  - Bien prendre le temps de comprendre
 
-##Divers
+Divers
 ---------
 
 
