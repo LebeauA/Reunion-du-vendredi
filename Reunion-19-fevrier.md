@@ -25,7 +25,7 @@
 * On va servir de jury pour la GameJam des Turing
 * Un ptit tour de table pour savoir si on est plutot front-end ou back-end et en fonction séparer les parcours
 
-## Code Project
+## Code Project :
 * Accompagnement des stages Quai 10 (Gaming)
 * l'initiation au code se fait entre une demi journée voir une journée
 * être créatif sur le moyen d'enseigner l'initiation
